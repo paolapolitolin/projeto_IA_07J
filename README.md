@@ -1,7 +1,7 @@
 # Projeto de Inteligência Artificial 07J
 
 ## Título 
-RemedIoT: Sistema Inteligente com IoT e Inteligência Artificial para Monitoramento da Adesão Medicamentosa em Idosos
+Sistema de controle e monitoramento para dispensador de medicamentos inteligente
 
 ## Integrantes
 Antônio César  -  RA: 10418522  
